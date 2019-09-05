@@ -22,7 +22,7 @@
 
 ## **W**arm-Up Transformation Example:
 
-[**https://res.cloudinary.com/demo/image/upload/l\_Austria-Flag-icon,g\_north,h\_300,w\_300/r\_max/vienna-3.jpg**](https://res.cloudinary.com/demo/image/upload/l_Austria-Flag-icon,g_north,h_300,w_300/r_max/vienna-3.jpg)\*\*\*\*
+\*\*\*\*[**https://res.cloudinary.com/demo/image/r\_max/upload/l\_Austria-Flag-icon,g\_north,h\_300,w\_300/vienna-3.jpg**](https://res.cloudinary.com/demo/image/r_max/upload/l_Austria-Flag-icon,g_north,h_300,w_300/vienna-3.jpg)\*\*\*\*
 
 ![Target Image \(Example\)](.gitbook/assets/vienna-3-1.jpg)
 

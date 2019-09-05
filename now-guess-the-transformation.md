@@ -9,15 +9,9 @@ description: >-
 
 ### Challenge Image \(**URL = ???**\): <a id="challenge-image-url"></a>
 
+![](.gitbook/assets/vienna-3-2.jpg)
 
-
-
-
-
-
-
-
-
+_\*\*\*\*_
 
 ## Submit your details and your guess of the challenge URL into the form provided here: [Submit Your Guess Here!](http://cloudinary.rocks/jx-vienna)
 

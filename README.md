@@ -6,5 +6,31 @@
 
 ## Source Images:
 
-#### Source image \#1: 
+#### Source image \#1: [https://res.cloudinary.com/demo/image/upload/vienna-3.jpg](https://res.cloudinary.com/demo/image/upload/vienna-3.jpg)
+
+![Vienna](.gitbook/assets/vienna-3.jpg)
+
+
+
+#### Source image \#2: [https://res.cloudinary.com/demo/image/upload/Austria-Flag-icon.png](https://res.cloudinary.com/demo/image/upload/Austria-Flag-icon.png)
+
+#### 
+
+![Austria Flag pin](.gitbook/assets/austria-flag-icon.png)
+
+
+
+## **W**arm-Up Transformation Example:
+
+[**https://res.cloudinary.com/demo/image/upload/l\_Austria-Flag-icon,g\_north,h\_300,w\_300/r\_max/vienna-3.jpg**](https://res.cloudinary.com/demo/image/upload/l_Austria-Flag-icon,g_north,h_300,w_300/r_max/vienna-3.jpg)\*\*\*\*
+
+![Target Image \(Example\)](.gitbook/assets/vienna-3-1.jpg)
+
+## NOW YOU TRY! 😀
+
+{% page-ref page="now-guess-the-transformation.md" %}
+
+
+
+
 
